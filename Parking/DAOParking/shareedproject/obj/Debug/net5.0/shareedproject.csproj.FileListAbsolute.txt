@@ -1,0 +1,14 @@
+C:\Users\Guemri\source\repos\Parking\DAOParking\shareedproject\bin\Debug\net5.0\shareedproject.deps.json
+C:\Users\Guemri\source\repos\Parking\DAOParking\shareedproject\bin\Debug\net5.0\shareedproject.dll
+C:\Users\Guemri\source\repos\Parking\DAOParking\shareedproject\bin\Debug\net5.0\ref\shareedproject.dll
+C:\Users\Guemri\source\repos\Parking\DAOParking\shareedproject\bin\Debug\net5.0\shareedproject.pdb
+C:\Users\Guemri\source\repos\Parking\DAOParking\shareedproject\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Guemri\source\repos\Parking\DAOParking\shareedproject\obj\Debug\net5.0\shareedproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guemri\source\repos\Parking\DAOParking\shareedproject\obj\Debug\net5.0\shareedproject.AssemblyInfoInputs.cache
+C:\Users\Guemri\source\repos\Parking\DAOParking\shareedproject\obj\Debug\net5.0\shareedproject.AssemblyInfo.cs
+C:\Users\Guemri\source\repos\Parking\DAOParking\shareedproject\obj\Debug\net5.0\shareedproject.csproj.CoreCompileInputs.cache
+C:\Users\Guemri\source\repos\Parking\DAOParking\shareedproject\obj\Debug\net5.0\shareedproject.csproj.CopyComplete
+C:\Users\Guemri\source\repos\Parking\DAOParking\shareedproject\obj\Debug\net5.0\shareedproject.dll
+C:\Users\Guemri\source\repos\Parking\DAOParking\shareedproject\obj\Debug\net5.0\ref\shareedproject.dll
+C:\Users\Guemri\source\repos\Parking\DAOParking\shareedproject\obj\Debug\net5.0\shareedproject.pdb
+C:\Users\Guemri\source\repos\Parking\DAOParking\shareedproject\obj\Debug\net5.0\shareedproject.csproj.AssemblyReference.cache

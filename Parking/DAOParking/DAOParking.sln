@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAOParking", "DAOParking\DAOParking.csproj", "{64DD38DA-9077-4D5B-9561-52FA3FECC814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shareedproject", "shareedproject\shareedproject.csproj", "{89B14552-DFD5-48C6-B908-37F0C8964FA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64DD38DA-9077-4D5B-9561-52FA3FECC814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DD38DA-9077-4D5B-9561-52FA3FECC814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DD38DA-9077-4D5B-9561-52FA3FECC814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DD38DA-9077-4D5B-9561-52FA3FECC814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B14552-DFD5-48C6-B908-37F0C8964FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B14552-DFD5-48C6-B908-37F0C8964FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B14552-DFD5-48C6-B908-37F0C8964FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B14552-DFD5-48C6-B908-37F0C8964FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6221CE2B-59C8-476F-BBE6-29C2BB085DE2}
+	EndGlobalSection
+EndGlobal

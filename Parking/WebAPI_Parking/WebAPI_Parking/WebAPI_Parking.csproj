@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.31" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DAOParking">
+      <HintPath>..\..\DAOParking\DAOParking\bin\Debug\net5.0\DAOParking.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\DAOParking\DAOParking\bin\Debug\net5.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="sharedProject">
+      <HintPath>..\..\DAOParking\sharedProject\bin\Debug\net5.0\sharedProject.dll</HintPath>
+    </Reference>
+    <Reference Include="shareedproject">
+      <HintPath>..\..\DAOParking\shareedproject\bin\Debug\net5.0\shareedproject.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
